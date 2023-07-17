@@ -1,2 +1,3 @@
 # Chat_on_Mongoose
-pet-project
+This is my first pet-project.
+I create this project on React, Express, Mongoose.
